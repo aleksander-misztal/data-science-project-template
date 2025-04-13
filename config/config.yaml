@@ -1,0 +1,6 @@
+defaults:
+  - env: local
+
+mlflow:
+  tracking_uri: ./mlruns
+  experiment_name: default
